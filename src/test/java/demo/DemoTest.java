@@ -8,7 +8,6 @@ public class DemoTest {
 	public void demo() {
 		
 		System.out.println("Hi this is WASM6 framework !!!");
-		System.out.println("Hi");
 		
 	}
 
