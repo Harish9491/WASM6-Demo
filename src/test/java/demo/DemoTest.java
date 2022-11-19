@@ -7,7 +7,7 @@ public class DemoTest {
 	@Test
 	public void demo() {
 		
-		System.out.println("Hi this is WASM6 framework !!!");
+		System.out.println("Hi this is WASM6 framework !!");
 
 		
 	}
