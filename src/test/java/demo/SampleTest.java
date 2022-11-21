@@ -13,7 +13,13 @@ public class SampleTest {
 		
 		System.out.println("hi");
 		
+
+
+		System.out.println("Hi this is user 2 - eclipse work space");
+
+
 		System.out.println("Hi this is user 1 - second commit");
+
 	}
 
 }
