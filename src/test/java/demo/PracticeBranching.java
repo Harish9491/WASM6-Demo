@@ -8,6 +8,7 @@ public class PracticeBranching {
 	public void branch()
 	{
 		System.out.println("Practice branching and review");
+		System.out.println("brancj 2");
 	}
 
 }
